@@ -1,8 +1,8 @@
 {
-  "name": "javascript-tech-doc",
+  "name": "typescript-tech-doc",
   "version": "0.0.0",
   "private": true,
-  "homepage": "https://github.com/pravn27/javascript-tech-doc",
+  "homepage": "https://github.com/pravn27/typescript-tech-doc",
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
