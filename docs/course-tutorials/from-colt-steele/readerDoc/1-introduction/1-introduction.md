@@ -6,6 +6,8 @@ sidebar_position: 1
 
 ## Course overview
 
+![alt text](https://github.com/pravn27/typescript-learning-journey/blob/master/courses/from-colt-steele/ref-img/course-content.png?raw=true)
+
 ## Join the Community
 
 > The course videos and exercises are only a part of the experience. In-person bootcamps foster a strong sense of community, and we've tried to replicate that here. To get the most out of the course, we highly recommend you participate in at least some of the following places:
