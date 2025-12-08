@@ -1,4 +1,4 @@
-# Typescript complete documentation, related & reference links of JS
+# Typescript complete documentation, related & its reference links
 
 ## Build technical documentation with [Docusaurus](https://docusaurus.io/)
 
