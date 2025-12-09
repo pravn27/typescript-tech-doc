@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ## Course overview
 
-![alt text](https://github.com/pravn27/typescript-learning-journey/blob/master/courses/from-colt-steele/ref-img/course-content.png?raw=true)
+- Refer https://github.com/pravn27/typescript-learning-journey/blob/master/courses/from-colt-steele/ref-pdf-notes/TypeScript%2BSlides.pdf
 
 ## Join the Community
 
@@ -21,3 +21,28 @@ sidebar_position: 1
 - Subscribe to the YouTube channel for additional content, live streams, AMAs with me, and more!
 
   - https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw
+
+## What is Typescript and its purpose ?
+
+- Typescript is Javascript with Types
+
+- TypeScript is a language that is built on top of JavaScript with the purpose of helping us avoid the common pitfalls and bugs that arise in JavaScript. And it seeks to improve the experience of writing JavaScript.
+
+- Typescript is superset of Javascript, Meaning that all JavaScript code is considered valid TypeScript.The difference is that TypeScript adds on this type system. It adds in these special checks, these special enhancements to the JavaScript syntax, that make it a much better development experience. And hopefully help us avoid bugs.
+
+- Refer https://github.com/pravn27/typescript-learning-journey/blob/master/courses/from-colt-steele/ref-pdf-notes/TypeScript%2BSlides.pdf
+
+## Typescript Overview
+
+- **Static checking**
+
+  - Typescript detects errors in our code without running it, this is called Static checking
+
+- Type checking
+
+  - Typescript does this error checking on the basis of the **kinds of data** in our program AKA types, like code base which has somethings is an string, numbers, array or objects
+
+- Why Types and Typescript's type system ?
+  - Helps us find errors!, before our code runs
+  - Analyses our code as we type
+  - only exists in development phase
