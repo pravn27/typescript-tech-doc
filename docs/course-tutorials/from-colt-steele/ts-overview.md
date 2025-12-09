@@ -10,7 +10,7 @@ sidebar_position: 1
 
 ## Overview
 
-- [1-Introduction](./readerDoc/1-introduction/1-introduction.md)
+- [1-Introduction](./readerDoc/1-introduction.md)
 
 ## Typescript hands on practice & implementation, demo projects
 
