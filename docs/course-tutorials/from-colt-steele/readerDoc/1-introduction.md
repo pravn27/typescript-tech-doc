@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 1-Introduction
+# 1 - Introduction
 
 ## Course overview
 
