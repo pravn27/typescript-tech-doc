@@ -24,11 +24,11 @@ sidebar_position: 1
 
 ## What is Typescript and its purpose ?
 
-- Typescript is Javascript with Types
+- **Typescript is Javascript with Types**
 
-- TypeScript is a language that is built on top of JavaScript with the purpose of helping us avoid the common pitfalls and bugs that arise in JavaScript. And it seeks to improve the experience of writing JavaScript.
+- TypeScript is a language that is **built on top of JavaScript with the purpose of helping us avoid the common pitfalls and bugs that arise in JavaScript**. And it seeks to improve the experience of writing JavaScript.
 
-- Typescript is superset of Javascript, Meaning that all JavaScript code is considered valid TypeScript.The difference is that TypeScript adds on this type system. It adds in these special checks, these special enhancements to the JavaScript syntax, that make it a much better development experience. And hopefully help us avoid bugs.
+- **Typescript is superset of Javascript, Meaning that all JavaScript code is considered valid TypeScript**.The difference is that TypeScript adds on this type system. It adds in these special checks, these special enhancements to the JavaScript syntax, that make it a much better development experience. And hopefully help us avoid bugs.
 
 - Refer https://github.com/pravn27/typescript-learning-journey/blob/master/courses/from-colt-steele/ref-pdf-notes/TypeScript%2BSlides.pdf
 
@@ -36,13 +36,24 @@ sidebar_position: 1
 
 - **Static checking**
 
-  - Typescript detects errors in our code without running it, this is called Static checking
+  - **Typescript detects errors in our code without running / executing it (before run time), this is called Static checking**
 
 - Type checking
 
-  - Typescript does this error checking on the basis of the **kinds of data** in our program AKA types, like code base which has somethings is an string, numbers, array or objects
+  - Typescript does this error checking on the basis of the **kinds of data** in our program AKA types, like code base which has somethings is an string, numbers, array or objects. It does all of these type checks before run time / executing
 
 - Why Types and Typescript's type system ?
+
   - Helps us find errors!, before our code runs
   - Analyses our code as we type
   - only exists in development phase
+
+- **Typescript is there for better development purpose then its compiled to Javascript**, what ever TS you written at the end it will compiled down to normal Javascript files
+
+- Typescript playground
+
+  - https://www.typescriptlang.org/play/
+
+- **It's a superset of JavaScript, meaning that everything in JavaScript is valid in TypeScript plus a bunch of extra syntax that is TypeScript-specific that has to do with types.**
+
+- Refer https://github.com/pravn27/typescript-learning-journey/blob/master/courses/from-colt-steele/ref-pdf-notes/TypeScript%2BSlides.pdf
