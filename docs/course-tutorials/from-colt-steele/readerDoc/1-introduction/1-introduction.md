@@ -57,3 +57,27 @@ sidebar_position: 1
 - **It's a superset of JavaScript, meaning that everything in JavaScript is valid in TypeScript plus a bunch of extra syntax that is TypeScript-specific that has to do with types.**
 
 - Refer https://github.com/pravn27/typescript-learning-journey/blob/master/courses/from-colt-steele/ref-pdf-notes/TypeScript%2BSlides.pdf
+
+## Installation & Setup
+
+- Typescript installation
+
+  - https://www.typescriptlang.org/download/
+
+- using npm, for under projects directory
+
+  - `npm install typescript --save-dev`
+
+- Globally Installing TypeScript in your machine
+
+  - `npm install -g typescript`
+  - check by running `tsc -v` in terminal
+
+- Typescript playground in online, explore with Examples, TS Config & play it instantly
+
+  - https://www.typescriptlang.org/play/
+
+- How we use Typescript ?
+  - lets create sample TS file `basics.ts`, add some TS code base.
+  - How to run TS file ?
+    - using tsc cmd `tsc basics.ts`, which compiled down TS file to respective JS file
