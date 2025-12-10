@@ -27,8 +27,14 @@ const config = {
   projectName: "typescript-tech-doc", // Usually your repo name.
   deploymentBranch: "gh-pages",
   onBrokenLinks: "throw",
-  onBrokenMarkdownLinks: "warn",
   trailingSlash: false,
+
+  // Markdown configuration
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: "warn",
+    },
+  },
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -48,19 +54,7 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl: "https://github.com/pravn27/typescript-tech-doc/tree/master",
         },
-        blog: {
-          showReadingTime: true,
-          feedOptions: {
-            type: ["rss", "atom"],
-            xslt: true,
-          },
-          // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/pravn27/typescript-tech-doc/tree/master",
-          // Useful options to enforce blogging best practices
-          onInlineTags: "warn",
-          onInlineAuthors: "warn",
-          onUntruncatedBlogPosts: "warn",
-        },
+        blog: false, // Disable blog functionality
         theme: {
           customCss: "./src/css/custom.css",
         },
