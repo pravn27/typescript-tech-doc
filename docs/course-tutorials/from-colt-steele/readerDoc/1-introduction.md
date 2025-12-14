@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ## Course overview
 
-- Refer https://github.com/pravn27/typescript-learning-journey/blob/master/courses/from-colt-steele/ref-pdf-notes/TypeScript%2BSlides.pdf
+- Resource ref: https://github.com/pravn27/typescript-learning-journey/blob/master/courses/from-colt-steele/ref-pdf-notes/TypeScript%2BSlides.pdf
 
 ## Join the Community
 
@@ -29,8 +29,6 @@ sidebar_position: 1
 - TypeScript is a language that is **built on top of JavaScript with the purpose of helping us avoid the common pitfalls and bugs that arise in JavaScript**. And it seeks to improve the experience of writing JavaScript.
 
 - **Typescript is superset of Javascript, Meaning that all JavaScript code is considered valid TypeScript**.The difference is that TypeScript adds on this type system. It adds in these special checks, these special enhancements to the JavaScript syntax, that make it a much better development experience. And hopefully help us avoid bugs.
-
-- Refer https://github.com/pravn27/typescript-learning-journey/blob/master/courses/from-colt-steele/ref-pdf-notes/TypeScript%2BSlides.pdf
 
 ## Typescript Overview
 
@@ -55,8 +53,6 @@ sidebar_position: 1
   - https://www.typescriptlang.org/play/
 
 - **It's a superset of JavaScript, meaning that everything in JavaScript is valid in TypeScript plus a bunch of extra syntax that is TypeScript-specific that has to do with types.**
-
-- Refer https://github.com/pravn27/typescript-learning-journey/blob/master/courses/from-colt-steele/ref-pdf-notes/TypeScript%2BSlides.pdf
 
 ## Installation & Setup
 
