@@ -4,6 +4,10 @@ sidebar_position: 1
 
 # Typescript from Colt Steele 2025
 
+## Course
+
+    - https://www.udemy.com/course/learn-typescript/
+
 ## Complete Typescript notes
 
     - https://github.com/pravn27/typescript-learning-journey/blob/master/courses/from-colt-steele/ref-pdf-notes/TypeScript%2BSlides.pdf
