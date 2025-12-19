@@ -12,3 +12,5 @@ sidebar_position: 4
 ## Type annotation for objects in variables, function parameter, function return types
 
 ## Type Aliases
+
+    - Type aliases really benefit in reusing of Types, mainly will use in Objects shape type
