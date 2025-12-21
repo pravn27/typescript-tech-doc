@@ -14,3 +14,11 @@ sidebar_position: 4
 ## Type Aliases
 
     - Type aliases really benefit in reusing of Types, mainly will use in Objects shape type
+
+## Nested Object Types
+
+## Optional properties
+
+## readonly properties
+
+## Intersection Types
