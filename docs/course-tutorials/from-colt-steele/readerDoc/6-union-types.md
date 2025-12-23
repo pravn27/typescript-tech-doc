@@ -9,4 +9,8 @@ sidebar_position: 6
 
 ## Union types
 
-##
+## Type narrowing
+
+## Union types with Arrays
+
+## Literal types
