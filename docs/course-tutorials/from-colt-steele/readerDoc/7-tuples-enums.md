@@ -12,3 +12,6 @@ sidebar_position: 7
     - Array with fixed length & types
 
 ## Enums
+
+    - Define a Set of named constant
+    - Purpose of Enums
