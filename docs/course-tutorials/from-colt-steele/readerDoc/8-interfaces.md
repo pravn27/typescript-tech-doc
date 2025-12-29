@@ -8,3 +8,9 @@ sidebar_position: 8
 - TS codebase: https://github.com/pravn27/typescript-learning-journey/tree/master/courses/from-colt-steele/8-interfaces
 
 ## Interfaces
+
+- Similar like type, describe the shape of Objects
+
+- Interface readonly, optional properties
+
+- Interface methods, parameters
