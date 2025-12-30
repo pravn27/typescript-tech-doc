@@ -14,3 +14,11 @@ sidebar_position: 8
 - Interface readonly, optional properties
 
 - Interface methods, parameters
+
+- Reopening Interfaces, adding new properties
+
+- Extending Interfaces
+
+- Extend interface with multiple Interfaces
+
+- Interface v/s Types
